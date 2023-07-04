@@ -1,3 +1,14 @@
+/* Write a Program to find the length of a string using a Pointer.
+For example,
+Input:
+Enter any string: hello world
+
+Output:
+The length of a string is: 11
+*/
+
+
+
 #include<stdio.h>
 
 void main(){
